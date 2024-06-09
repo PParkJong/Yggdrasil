@@ -69,8 +69,16 @@
 
 ## 여름
 ### 맵
+<img src="./image/여름_맵.png">
+
 ### 무덤 만들기
+<img src="./image/여름_기믹2.png">
+
 ### 미로 탈출
+<img src="./image/여름_기믹3.png">
+
+### 보물방 열기
+<img src="./image/여름_기믹4.png">
 
 ## 가을
 ### 맵
