@@ -82,17 +82,35 @@
 
 ## 가을
 ### 맵
+<img src="./image/가을_맵.png">
+
 ### 문 열기
+<img src="./image/가을_기믹1.png">
+
 ### 스위치 퍼즐
+<img src="./image/가을_기믹2.png">
+
 ### 여우 몰이
+<img src="./image/가을_기믹3.png">
+
 ### 곰 퇴치
+<img src="./image/가을_기믹4.png">
 
 ## 겨울
 ### 맵
+<img src="./image/겨울_맵.png">
+
 ### 얼음 벽 녹이기
+<img src="./image/겨울_기믹1.png">
+
 ### 레이저 퍼즐
+<img src="./image/겨울_기믹2.png">
+
 ### 회전 미로 탈출
+<img src="./image/겨울_기믹3.png">
+
 ### 꼬마 눈사람 안내
+<img src="./image/겨울_기믹4.png">
 
 <br><br>
 
