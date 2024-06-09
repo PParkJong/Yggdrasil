@@ -49,10 +49,8 @@
 
 # 맵 & 기믹 소개
 
-
-  
 ## 세계수
-- 정수를 바칠때마다 세계수의 모습에 변화가 생긴다.
+정수를 바칠때마다 세계수의 모습에 변화가 생긴다.
   
 <details>
     <summary>펼치기</summary>
@@ -84,6 +82,10 @@
 </details>
 
 ## 봄
+
+<details>
+    <summary>펼치기</summary>
+
 ### 맵
 - 봄의 정원
 <img src="./image/봄_맵.png">
@@ -120,7 +122,13 @@
 - 꽃가루, 물, 거름을 모아 꽃을 피워 봄의 정수 획득
 <img src="./image/봄_기믹5.png">
 
+</details>
+
 ## 여름
+
+<details>
+    <summary>펼치기</summary>
+
 ### 맵
 - 난파된 배들이 있는 섬
 <img src="./image/여름_맵.png">
@@ -137,7 +145,13 @@
 - 열쇠로 보물방 문 열기
 <img src="./image/여름_기믹1.png">
 
+</details>
+
 ## 가을
+
+<details>
+    <summary>펼치기</summary>
+
 ### 맵
 - 가을 농장
 <img src="./image/가을_맵.png">
@@ -158,7 +172,13 @@
 - 맵에 숨겨져 있는 돌들을 찾아 곰에게 던져 퇴치
 <img src="./image/가을_기믹4.png">
 
+</details>
+
 ## 겨울
+
+<details>
+    <summary>펼치기</summary>
+
 ### 맵
 - 눈사람 마을
 <img src="./image/겨울_맵.png">
