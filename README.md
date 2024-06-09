@@ -53,7 +53,7 @@
 <details>
     <summary>펼치기</summary>
   
-<h2>초기 모습</h2>
+<h3>초기 모습</h3>
 
 - 전체적으로 맵이 어두우며 세계수가 힘을 잃은 모습
 <img src="./image/세계수_초기.png">
