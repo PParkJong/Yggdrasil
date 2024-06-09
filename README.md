@@ -1,5 +1,3 @@
-# Yggdrasil.github.io
-
 # 게임 타이틀
 ## Revive of Yggdrasil:세계수의 부활
 <img src="./image/Yggdrasil_타이틀.png">
