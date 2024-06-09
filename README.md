@@ -2,7 +2,6 @@
 
 # 게임 타이틀
 ## Revive of Yggdrasil:세계수의 부활
-## 이미지
 <img src="./Yggdrasil_타이틀.png">
 
 # [소개]
