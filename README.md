@@ -78,7 +78,7 @@
 <img src="./image/여름_기믹3.png">
 
 ### 보물방 열기
-<img src="./image/여름_기믹4.png">
+<img src="./image/여름_기믹1.png">
 
 ## 가을
 ### 맵
