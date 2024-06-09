@@ -42,6 +42,25 @@
 
 # [맵 & 기믹 소개]
 
+## 세계수
+### 초기 모습
+<img src="./image/세계수_초기.png">
+
+### 봄의 정수 수집
+<img src="./image/세계수_봄.png">
+
+### 여름의 정수 수집
+<img src="./image/세계수_여름.png">
+
+### 가을의 정수 수집
+<img src="./image/세계수_가을.png">
+
+### 겨울의 정수 수집
+<img src="./image/세계수_겨울.png">
+
+### 모두 수집
+<img src="./image/세계수_완.png">
+
 ## 봄
 ### 맵
 <img src="./image/봄_맵.png">
